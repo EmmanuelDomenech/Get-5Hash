@@ -1,5 +1,4 @@
-#Develepers: Emmanuel Domenech
-#Date: 02/08/2022
+#Dev: Emmanuel Domenech
 #The script will allowed you to get a file hash from a machine remotely. And will provide 5 algorithm (MD5,SHA1,SHA256,SHA384,SHA512).
 #Make sure to open output .csv file on Excel for better view.
 $COMPUTERNAME = Read-Host "Enter Remote Computer Name"
